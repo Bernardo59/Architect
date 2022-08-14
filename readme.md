@@ -1,7 +1,8 @@
-# Architects
+# Architect
 
 ## Description
 This website is a copy of the W3 Schools "Architect" template.
+
 Just to practice HTML CSS and JavaScript.
 
 Original Website:
